@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tungsten03
+- 👋 Hi, I’m @KacperRajewski
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing. Lone wolf baby!
