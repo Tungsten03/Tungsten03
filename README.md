@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KacperRajewski
+- 👋 Hi, I’m Tungsten
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing. Lone wolf baby!
+- 💞️ I’m looking to collaborate on nothing. 
 - 📫 How to reach me: e-mail me plx!
 
 <!---
